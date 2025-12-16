@@ -1,0 +1,5 @@
+{
+  "name": "Vibe Coder",
+  "description": "An AI-powered vibe coding environment that generates and previews React applications in real-time using the Gemini API.",
+  "requestFramePermissions": []
+}
